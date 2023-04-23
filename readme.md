@@ -1,5 +1,12 @@
-# 💫 About Me:
-🔭 I’m currently working on MERN <br>🌱 I’m currently learning JS<br>
+# 👋 About Me
+
+Hello, I'm **Hussein Hany**, a student of **Computer Science** with a strong interest in **web development**. I'm currently learning the **MERN stack (MongoDB, Express, React, Node.js)**, and I'm excited about the possibilities it offers. :computer:
+
+Aside from coding, I enjoy exploring new **technologies and tools**, reading **technical blogs**, and working on **personal projects**. I believe in **continuous learning** and improving my **skills**, both technical and interpersonal. :books:
+
+This GitHub profile showcases some of my projects, including those related to the **MERN stack**. I hope they inspire you to explore new **ideas and technologies**, as they have for me. :rocket:
+
+Thank you for visiting, and feel free to **contact me** if you have any questions or suggestions. :smiley:
 
 
 ## 🌐 Socials:
