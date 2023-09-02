@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello, I'm **Hussein Hany**, a student of **Computer Science** with a strong interest in **Web Development/ML**. I'm currently learning the **Machine Learning Specialization** from AndrewNG, and I'm excited about the possibilities it offers. :computer:
+Hello, I'm **Hussein Hany**, a student of **Computer Science** with a strong interest in **Web Development**. I'm currently learning **Node.js** from TheOdinProject, and I'm excited about the possibilities it offers. :computer:
 
 Aside from coding, I enjoy exploring new **technologies and tools**, reading **technical blogs**, and working on **personal projects**. I believe in **continuous learning** and improving my **skills**, both technical and interpersonal. :books:
 
@@ -16,15 +16,25 @@ Thank you for visiting, and feel free to **contact me** if you have any question
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=3ein39&theme=onedark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=3ein39&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=3ein39&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=3ein39&theme=onedark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3ein39&theme=onedark&hide_border=false" alt="GitHub Streak">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3ein39&theme=onedark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=3ein39&theme=onedark&no-frame=true&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=3ein39&icon=0&color=1)](https://visitcount.itsvg.in)
