@@ -1,6 +1,6 @@
 # 👋 About Me
 
-Hello, I'm **Hussein Hany**, a student of **Computer Science** with a strong interest in **Web Development**. I'm currently learning **Relational Databases** from Caltech, and I'm excited about the possibilities it offers. :computer:
+Hello, I'm **Hussein Hany**, a student of **Computer Science** with a strong interest in **Web Development**. I'm currently learning **Vue.js & Nuxt.js**, and I'm excited about the possibilities it offers. :computer:
 
 Aside from coding, I enjoy exploring new **technologies and tools**, reading **technical blogs**, and working on **personal projects**. I believe in **continuous learning** and improving my **skills**, both technical and interpersonal. :books:
 
